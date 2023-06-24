@@ -1,8 +1,8 @@
 const nextConfig = {
   output: 'export',
-  distDir: 'build',
-}
-module.exports = nextConfig
+  distDir: 'dist',
+};
+module.exports = nextConfig;
 // module.exports = {
 
 //   reactStrictMode: true,
